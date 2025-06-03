@@ -1,4 +1,5 @@
 ## Hi there 👋
+SQL PROJECT
 
 <!--# 🏠 Real Estate Sales Analysis
 
@@ -47,23 +48,4 @@ GROUP BY month
 ORDER BY month;
 
 
-- 🔭 I’m currently working on ...real-estate-sales-analysis/
-│
-├── data/
-│   └── real_estate_sales.csv
-├── scripts/
-│   └── data_cleaning.sql
-│   └── analysis_queries.sql
-├── visuals/
-│   └── powerbi_dashboard.png
-│   └── powerbi_dashboard.pbix
-├── README.md
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Dominic 
 SQL PROJECT
 
 <!--# 🏠 Real Estate Sales Analysis
